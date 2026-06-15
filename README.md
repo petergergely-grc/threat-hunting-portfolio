@@ -13,7 +13,7 @@ and a technical annex with full KQL queries and flag-by-flag evidence.
 | Hunt | Environment | Platform | Status |
 |---|---|---|---|
 | [Ghost in the Stack](./ghost-in-the-stack/) | Greenfield Estate | Microsoft Sentinel / Defender XDR | ✅ Complete |
-| [Hunt 2 — TBD](./hunt-02/) | TBD | Microsoft Sentinel / Defender XDR | 🔄 In Progress |
+| [Signals After the Noise](./signals-after-the-noise/) | Azure VM Estate | Microsoft Sentinel / Defender XDR | ✅ Complete |
 
 ---
 
